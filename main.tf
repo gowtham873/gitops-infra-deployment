@@ -8,7 +8,7 @@ provider "aws" {
 
 resource "aws_instance" "gitops_ec2" {
 
-  ami           = "ami-0f5ee92e2d63afc18"
+  ami           = "ami-0d940f23d527c3ab1"
 
   instance_type = "t2.micro"
 
