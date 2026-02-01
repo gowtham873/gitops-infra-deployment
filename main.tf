@@ -16,7 +16,7 @@ resource "aws_instance" "gitops_ec2" {
 
   tags = {
 
-    Name = "GitOps-EC2-1"
+    Name = "GitOps-EC2-2"
 
   }
 
